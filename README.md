@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jaffar's Page
 
-You can use the [editor on GitHub](https://github.com/Jaffarshah/Jaffar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can see my projects and updates at https://github.com/Jaffarshah or https://Jaffar.github.io
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
